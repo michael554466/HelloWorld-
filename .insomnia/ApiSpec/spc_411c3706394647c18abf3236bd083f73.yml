@@ -1,0 +1,9 @@
+_id: spc_411c3706394647c18abf3236bd083f73
+contentType: yaml
+contents: |
+  Hello World!
+created: 1596657924960
+fileName: HelloWorld!
+modified: 1596660330562
+parentId: wrk_9fbc5ee2c8994d7a87972afa533f25df
+type: ApiSpec
